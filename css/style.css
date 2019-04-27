@@ -1,0 +1,32 @@
+#mapid {
+    height: 500px;
+}
+
+.leaflet-div-icon {
+    background: transparent;
+    border: none;
+}
+
+nav > div a.nav-item.nav-link {
+    border: none;
+    padding: 18px 25px;
+    color:#fff;
+    background:#272e38;
+    border-radius:0;
+}
+
+.tab-content {
+    border: 1px solid #ddd;
+    border-top:5px solid #5a6afa;
+    border-bottom:5px solid #5a6afa;
+}
+
+nav > div a.nav-item.nav-link:hover {
+    background: #364099;
+}
+
+nav > div a.nav-item.nav-link.active {
+    color:#fff;
+    background: #5a6afa;
+    font-weight: bold;
+}
